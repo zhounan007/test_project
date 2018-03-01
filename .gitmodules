@@ -1,0 +1,3 @@
+[submodule "lib/3r-lib"]
+	path = lib/3r-lib
+	url = git@github.com:zhounan007/test_lib.git
